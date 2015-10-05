@@ -1,0 +1,83 @@
+h1 {
+	background: url(../img/titulo.png) no-repeat;
+	width: 324px;
+	height: 129px;
+	font-size: 12px;
+	margin: 5px auto !important;
+}
+.ui-header, .ui-footer {
+	text-align: center
+}
+.ui-header img {
+	margin: 0;
+}
+.ui-btn-icon-left .ui-btn-inner {
+	text-align: left !important;
+}
+#notification {
+	color: #900;
+	text-align: center;
+}
+.ui-header .ui-title, .ui-footer .ui-title {
+	white-space: normal;
+}
+.ui-li-heading {
+	white-space: normal;
+}
+.ui-listview-filter .ui-input-search {
+	margin: 10px 15px;
+}
+.phone_endereco {
+	background: url(../img/phone_address.png) no-repeat !important;
+	width: 50px !important;
+	height: 50px !important;
+	display: block !important;
+	padding: 0 !important;
+	float: right;
+	margin: 24px 5px !important;
+	border: none !important;
+}
+.phone_endereco .ui-btn-inner {
+	display: none !important;
+}
+.phone_icon {
+	background: url(../img/phone_icon.png) no-repeat !important;
+	width: 50px !important;
+	height: 50px !important;
+	display: block !important;
+	padding: 0 !important;
+	float: right;
+	margin: 10px 50px 10px 10px !important;
+}
+img.logo_lado {
+	float: left;
+	height: 80px;
+	width: 100px;
+	margin-right: 10px;
+}
+.ui-corner-all {
+	white-space: normal;
+}
+.ui-btn-inner {
+	margin: 4px 10px !important;
+	padding-bottom: 4px !important;
+}
+.ui-btn-icon-right .ui-icon {
+	display: none;
+}
+p.ui-li-desc {
+	white-space: normal !important;
+	padding-right: 50px !important;
+}
+
+.segmented-control { text-align:center; }
+.segmented-control .ui-controlgroup { display:inline; margin:.2em 0px; }
+#map-page { width:100%; height:100%; }
+#map-canvas { width:100%; height:100%; margin-top:-30px; padding:0px!important; }
+#gmap-marker-link { color:#00a0df; text-decoration:none; }
+.ui-gmap-canvas { width:100%; height:100%; }
+.ui-gmap-infobox { display:none; }
+#show-more .ui-li-heading { text-align:center; }
+#show-more .ui-icon { visibility:hidden; }
+.ui-li-has-count .ui-li-count { border-color:transparent; }
+.wrap { white-space:normal; }
